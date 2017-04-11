@@ -22,14 +22,14 @@ Mình xin phép chỉ liệt kê một phần trong hàng tá ngông ngữ các 
 Các bạn đừng vội tìm hiểu html và css là gì nhé, vì điều đầu tiên mình chỉ muốn các bạn biết rằng để học lập trình web các bạn cần phải biết tối thiểu hai thứ trên thôi.
 Vậy tổng kết lại một câu trả lời cho câu hỏi này là: Học lập trình web là học html và css. (Hai chúng là gì, các bạn sẽ được tìm hiểu ở các bài sau).
 
-## [#](Máy tính của bạn cần có những gì để học lập trình web)
+## [Máy tính của bạn cần có những gì để học lập trình web](#)
 Có lẽ chắc các bạn đều sử dụng hệ điều hành windown nhỉ. Thế nên máy tính ở đây là mình nói đến máy tính sử dụng hệ điều hành windown nhé, còn các hệ điều hành khác thì nội dung sau đây có thể sẽ không chính xác 100% đâu :)).
 Mình nói thế này bạn có tin không, bạn sẽ chẳng phải cài thêm bất kỳ phần mềm nào vào máy tính của bạn cả, bởi bản thân máy tính của bạn đã có đủ công cụ cho chúng ta học lập trình web rồi. Tất cả những gì chúng ta cần là
 * Một cái trình duyệt (Google chorme, Firefox, Coccoc, Internet Explode)
 * Một cái editor (Nodepad)
 Cả hai công cụ này đều đã có sẵn trên hệ điều hành windown, chính vì thế bạn sẽ không cần phải cài đặt thêm thứ gì nữa. Thật là quá tiện lợi phải không.
 
-## [#](Cùng nhau tạo website đầu tiên)
+## [Cùng nhau tạo website đầu tiên](#)
 Các bạn hãy tạo cho mình một file có tên là `website.html` ở ngoài desktop. Sau đó mở file đó nên bằng phần mềm `notepad` và viết vào trong đó nội dung sau
 
 ```html
@@ -48,7 +48,7 @@ Các bạn hãy tạo cho mình một file có tên là `website.html` ở ngoà
 ```
 Sau đó lưu file lại, rồi mở lại file này bằng trình duyệt của bạn. Nếu như bạn thấy kết quả hiển thị ra ngoài màn hình dòng chữ `Tôi đang học web` được in đậm thì có nghĩa là bạn đã tạo thành công website đầu tiên.
 
-## [#](Kết luận)
+## [Kết luận](#)
 Qua bài mở đầu này, các bạn hãy nhớ cho mình những điều sau
 * Học lập trình web là học html và css
 * Để học lập trình web máy tính của bạn cần phải có một trình duyệt và một editor
