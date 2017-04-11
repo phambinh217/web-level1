@@ -4,7 +4,7 @@
 * Cùng nhau tạo một website đầu tiên
 * Kết luận
 
-## [#](Lập trình web là học lập trình gì?)
+## [Lập trình web là học lập trình gì?](#)
 Nghe qua câu hỏi này có vẻ ngớ ngẩn, nhưng nếu suy nghĩ cho kỹ thì đây là một câu hỏi khá hay. Nếu đây là lần đầu tiên bạn đọc bài viết này, thì hãy dừng lại ít phút và tự trả lời câu hỏi này trước khi đọc được đáp án bên dưới nhé. Để xem xem giữa bạn và tác giả có cùng câu trả lời cho câu hỏi này hay không.
 
 Và bạn đã có đáp án chưa? Chúng ta cùng nhau đi trả lời nhé.
