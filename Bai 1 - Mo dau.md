@@ -18,6 +18,7 @@ Trên thế giới này, tồn tại khái niệm lập trình web, nhưng lại
 Để học lập trình web, các bạn cần phải biết nhiều hơn 1 ngôn ngữ, mà cụ thể là các bạn cần phải biết tối thiểu những thứ sau đây.
 * Html
 * Css
+
 Mình xin phép chỉ liệt kê một phần trong hàng tá ngông ngữ các bạn cần phải học nếu muốn tạo ra một website chuyên nghiệp.
 Các bạn đừng vội tìm hiểu html và css là gì nhé, vì điều đầu tiên mình chỉ muốn các bạn biết rằng để học lập trình web các bạn cần phải biết tối thiểu hai thứ trên thôi.
 Vậy tổng kết lại một câu trả lời cho câu hỏi này là: Học lập trình web là học html và css. (Hai chúng là gì, các bạn sẽ được tìm hiểu ở các bài sau).
